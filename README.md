@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B10haZardX
+- 👋 Hi, I’m @B10h4z4rdX
 - 👀 I’m interested in DFIR, Malware Analysis and Golang
 - 🌱 I’m currently learning Golang
 
